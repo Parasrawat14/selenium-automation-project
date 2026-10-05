@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BhumiLabs_HRVista_Automation_Suite">
+  <test name="HRVista_Login_Test">
+    <classes>
+      <class name="Testcase.login1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
