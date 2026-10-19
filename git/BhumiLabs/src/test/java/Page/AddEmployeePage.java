@@ -86,6 +86,7 @@ public class AddEmployeePage {
 		genderSelect.selectByVisibleText("Male");
 	}
 
+
 	public void selectDOB() {
 
 		wait.until(ExpectedConditions.elementToBeClickable(dob)).click();
